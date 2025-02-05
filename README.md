@@ -963,6 +963,7 @@ recommend you check them out too:
 - [Turborepo](https://turborepo.org/)
 - [Chomp](https://chompbuild.com/)
 - [Bazel](https://bazel.build/)
+- [Nix] (https://nixos.org/)
 
 Here are some things you might especially like about Wireit:
 
